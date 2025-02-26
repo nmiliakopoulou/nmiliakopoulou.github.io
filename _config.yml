@@ -13,7 +13,7 @@ title                    : "Nikoleta Iliakopoulou"
 title_separator          : "-"
 name                     : &name "Nikoleta Iliakopoulou"
 description              : &description "Personal Website of Nikoleta Iliakopoulou"
-url                      : https://markiiZZ.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://nmiliakopoulou.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
