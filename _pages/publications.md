@@ -60,11 +60,12 @@ Paper: <a href="https://jovans2.github.io/files/EcoFaaS_ISCA2024_Final.pdf" targ
 
 ## Workshops, Posters, Demo
 
+<ol reversed>
 <li>
 <b>N. Iliakopoulou</b>, J. Stojkovic, C. Alverti, T. Xu, H. Franke, J. Torrellas. (March 2025). &quot; Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments &quot;. <i>7th Young Architect Workshop (YArch'25, in conjuction with ASPLOS'25)</i>.
 </li>
+</ol>
 
-<ol reversed>
 
 
 
