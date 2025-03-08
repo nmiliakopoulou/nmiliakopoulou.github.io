@@ -12,11 +12,11 @@ I am honored to be a recipient of the 2025 [Amazon AICE PhD Fellowship](https://
 
 This summer (2025), I will be interning with the [Azure Research Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/) group at Microsoft, working on designing efficient LLM inference systems. Previously, I have had the opportunity to collaborate with leading industry research groups:
 <li>
-Summer 2024 – Interned with the [Network Research Group](https://research.nvidia.com/research-area/networking) at NVIDIA, where I characterized microarchitectural bottlenecks in LLM workloads.
+Summer 2024 – Interned with the Network Research Group at NVIDIA, where I characterized microarchitectural bottlenecks in LLM workloads.
 </li>
 
 <li>
-Summer 2023 – Interned with the [Hybrid Cloud](https://research.ibm.com/hybrid-cloud) group at IBM Research, focusing on improving the memory efficiency of Ray-based environments for ML serving systems.
+Summer 2023 – Interned with the Hybrid Cloud group at IBM Research, focusing on improving the memory efficiency of Ray-based environments for ML serving systems.
 </li>
 
 Through these experiences, I have gained hands-on expertise in LLM optimization, cloud-scale ML serving, memory systems, and hardware-software co-design, aiming to bridge the gap between ML workloads and modern computing infrastructures.
